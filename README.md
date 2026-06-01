@@ -3,36 +3,17 @@
 🎓 MSc Aerospace Engineering (Embedded Systems) — ISAE-SUPAERO  
 🧠 Human Factors • Neuroergonomics • Human–Machine Interaction  
 
----
-I work at the intersection of **engineering and cognitive science**, focusing on how humans behave, adapt, and perform in complex, safety-critical systems.
-
-My work combines **EEG signal processing**, experimental research, and human-centered design to build systems that better understand and support human performance.
-
-## 🚀 What Drives Me
+## 🚀 Passionate About
 - Understanding human performance in complex environments  
 - Designing systems that adapt to human cognition  
-- Bridging neuroscience, engineering, and real-world applications  
-
----
-
-## 🎯 Research Interests
-- 🧠 EEG-based cognitive state estimation  
-- 🔄 Neuroadaptive & closed-loop human–machine systems  
-- 👁️ Attention, workload, and fatigue monitoring  
-- 🧩 Human-centered system and interface design  
-- 🚨 Safety-critical decision-making and risk assessment  
-
----
-
+- Bridging neuroscience, engineering, and real-world applications
+  
 ## 🛠️ Core Skills
 - Python (signal processing, data analysis)  
 - EEG / neurophysiological data analysis (MNE workflows)  
 - Experimental design & protocol development  
 - Statistical analysis & visualization  
 - Scientific communication & research writing  
-
----
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-cc501f.svg?style=flat-square&logo=mathworks&logoColor=white)
@@ -59,3 +40,9 @@ My work combines **EEG signal processing**, experimental research, and human-cen
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![Jetson](https://img.shields.io/badge/Jetson-76B900.svg?style=flat-square&logo=nvidia&logoColor=white)
 
+## 🎯 Research Interests
+- 🧠 EEG-based cognitive state estimation  
+- 🔄 Neuroadaptive & closed-loop human–machine systems  
+- 👁️ Attention, workload, and fatigue monitoring  
+- 🧩 Human-centered system and interface design  
+- 🚨 Safety-critical decision-making and risk assessment  
